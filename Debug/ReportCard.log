@@ -1,0 +1,11 @@
+﻿  Database.cpp
+  main.cpp
+D:\Student Report Card Project\ReportCard\main.cpp(144): warning C4101: 'chemistry': unreferenced local variable
+D:\Student Report Card Project\ReportCard\main.cpp(144): warning C4101: 'physics': unreferenced local variable
+D:\Student Report Card Project\ReportCard\main.cpp(144): warning C4101: 'maths': unreferenced local variable
+D:\Student Report Card Project\ReportCard\main.cpp(144): warning C4101: 'id': unreferenced local variable
+D:\Student Report Card Project\ReportCard\main.cpp(144): warning C4101: 'english': unreferenced local variable
+  Person.cpp
+  Student.cpp
+  Generating Code...
+  ReportCard.vcxproj -> D:\Student Report Card Project\ReportCard\Debug\ReportCard.exe
